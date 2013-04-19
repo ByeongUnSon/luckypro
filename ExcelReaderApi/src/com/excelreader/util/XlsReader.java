@@ -334,18 +334,34 @@ public class XlsReader {
 		return result;
 	}
 
+	/**
+	 * 
+	 * @return workbook
+	 */
 	protected Workbook getWorkbook() {
 		return workbook;
 	}
-
+	
+	/**
+	 * 
+	 * @param workbook
+	 */
 	protected void setWorkbook(final Workbook workbook) {
 		this.workbook = workbook;
 	}
-
+	
+	/**
+	 * 
+	 * @return evaluator
+	 */
 	protected FormulaEvaluator getEvaluator() {
 		return evaluator;
 	}
 
+	/**
+	 * 
+	 * @param evaluator
+	 */
 	protected void setEvaluator(final FormulaEvaluator evaluator) {
 		this.evaluator = evaluator;
 	}
