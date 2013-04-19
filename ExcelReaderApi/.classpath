@@ -2,18 +2,18 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
-	<classpathentry kind="lib" path="C:/POI/git/ExcelXlsReaderApi/ExcelReaderApi/lib/commons-codec-1.5.jar"/>
-	<classpathentry kind="lib" path="C:/POI/git/ExcelXlsReaderApi/ExcelReaderApi/lib/commons-logging-1.1.jar"/>
-	<classpathentry kind="lib" path="C:/POI/git/ExcelXlsReaderApi/ExcelReaderApi/lib/dom4j-1.6.1.jar"/>
-	<classpathentry kind="lib" path="C:/POI/git/ExcelXlsReaderApi/ExcelReaderApi/lib/junit-3.8.1.jar"/>
-	<classpathentry kind="lib" path="C:/POI/git/ExcelXlsReaderApi/ExcelReaderApi/lib/log4j-1.2.13.jar"/>
-	<classpathentry kind="lib" path="C:/POI/git/ExcelXlsReaderApi/ExcelReaderApi/lib/poi-3.9-20121203.jar"/>
-	<classpathentry kind="lib" path="C:/POI/git/ExcelXlsReaderApi/ExcelReaderApi/lib/poi-examples-3.9-20121203.jar"/>
-	<classpathentry kind="lib" path="C:/POI/git/ExcelXlsReaderApi/ExcelReaderApi/lib/poi-excelant-3.9-20121203.jar"/>
-	<classpathentry kind="lib" path="C:/POI/git/ExcelXlsReaderApi/ExcelReaderApi/lib/poi-ooxml-3.9-20121203.jar"/>
-	<classpathentry kind="lib" path="C:/POI/git/ExcelXlsReaderApi/ExcelReaderApi/lib/poi-ooxml-schemas-3.9-20121203.jar"/>
-	<classpathentry kind="lib" path="C:/POI/git/ExcelXlsReaderApi/ExcelReaderApi/lib/poi-scratchpad-3.9-20121203.jar"/>
-	<classpathentry kind="lib" path="C:/POI/git/ExcelXlsReaderApi/ExcelReaderApi/lib/stax-api-1.0.1.jar"/>
-	<classpathentry kind="lib" path="C:/POI/git/ExcelXlsReaderApi/ExcelReaderApi/lib/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/POI/git/ExcelXlsReaderApi/ExcelReaderApi/commons-codec-1.5.jar"/>
+	<classpathentry kind="lib" path="C:/POI/git/ExcelXlsReaderApi/ExcelReaderApi/commons-logging-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/POI/git/ExcelXlsReaderApi/ExcelReaderApi/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/POI/git/ExcelXlsReaderApi/ExcelReaderApi/junit-3.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/POI/git/ExcelXlsReaderApi/ExcelReaderApi/log4j-1.2.13.jar"/>
+	<classpathentry kind="lib" path="C:/POI/git/ExcelXlsReaderApi/ExcelReaderApi/poi-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="C:/POI/git/ExcelXlsReaderApi/ExcelReaderApi/poi-examples-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="C:/POI/git/ExcelXlsReaderApi/ExcelReaderApi/poi-excelant-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="C:/POI/git/ExcelXlsReaderApi/ExcelReaderApi/poi-ooxml-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="C:/POI/git/ExcelXlsReaderApi/ExcelReaderApi/poi-ooxml-schemas-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="C:/POI/git/ExcelXlsReaderApi/ExcelReaderApi/poi-scratchpad-3.9-20121203.jar"/>
+	<classpathentry kind="lib" path="C:/POI/git/ExcelXlsReaderApi/ExcelReaderApi/stax-api-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/POI/git/ExcelXlsReaderApi/ExcelReaderApi/xmlbeans-2.3.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
